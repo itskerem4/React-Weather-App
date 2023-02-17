@@ -1,3 +1,9 @@
+ScreenShoot;
+![alt text](https://github.com/itskerem4/React-Weather-App/blob/main/Screenshoot/Screenshoot.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
